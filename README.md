@@ -8,6 +8,12 @@ Visakhapatnam, often called Vizag, is a vibrant coastal city nestled along India
 2 Went to Exhibition and enjoyed every ride.
 3 Visited Borra caves and Araku valley.
 
+* Bamboo Chicken
+* Kalmi Chicken Biriyani
+* Raju Gari Prawns Fry
+* Kalakand
+* Kamat Fry Piece Biryani
+* Godavari Mixed Pulao
 
 
 
