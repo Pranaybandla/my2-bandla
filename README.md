@@ -44,7 +44,7 @@ Author-*Dr APJ Abdul Kalam*
 ## Code Fencing
 >How do you post to an iframe?
 
-stack overflow link: <https://stackoverflow.com/questions/168455/how-do-you-post-to-an-iframe>
+[stack overflow link](https://stackoverflow.com/questions/168455/how-do-you-post-to-an-iframe)
 ```
 <form action="do_stuff.aspx" method="post" target="my_iframe">
   <input type="submit" value="Do Stuff!">
@@ -53,4 +53,4 @@ stack overflow link: <https://stackoverflow.com/questions/168455/how-do-you-post
 <!-- when the form is submitted, the server response will appear in this iframe -->
 <iframe name="my_iframe" src="not_submitted_yet.aspx"></iframe>
 ```
-CSS tricks links: <https://css-tricks.com/snippets/html/post-data-to-an-iframe/>
+[CSS tricks link](https://css-tricks.com/snippets/html/post-data-to-an-iframe/)
