@@ -33,3 +33,11 @@ Below is a table showing the information about some sports and its importances a
 |Basketball|Great for cardiovascular fitness and teamwork|5-7 hours|
 |Football|Excellent for physical fitness and teamwork|5-7 hours|
 
+----
+## Famous sayings by some great personalities
+
+>The important thing is not to stop questioning.
+Author-*Albert Einstein*
+
+>If you fail, never give up because FAIL means "First Attempt In Learning<br>
+Author-*Dr APJ Abdul Kalam*
