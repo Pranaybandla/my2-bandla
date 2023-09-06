@@ -5,7 +5,7 @@ Visakhapatnam, often called Vizag, is a vibrant coastal city nestled along India
 
 ---
 
-### PLACES AND DISHES IN VIZAG
+## PLACES AND DISHES IN VIZAG
 
 1. Visited all beaches like RK beach, Rishikonda beach.
 2. Went to Exhibition and enjoyed every ride.
