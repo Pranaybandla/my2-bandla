@@ -22,7 +22,7 @@ Visakhapatnam, often called Vizag, is a vibrant coastal city nestled along India
 ***[MyStats link](MyStats.md)***
  
 ----
-### Sports Table 
+## Sports Table 
 Below is a table showing the information about some sports and its importances and the average time per it should be played.
 
 | Sport Name | Reason | Avg Hrs per Week |
@@ -34,14 +34,14 @@ Below is a table showing the information about some sports and its importances a
 |Football|Excellent for physical fitness and teamwork|5-7 hours|
 
 ----
-## Famous sayings by some great personalities
-
+## Pithy Quotes
 >The important thing is not to stop questioning.<br>
 Author-*Albert Einstein*
 
 >If you fail, never give up because FAIL means "First Attempt In Learning".<br>
 Author-*Dr APJ Abdul Kalam*
 ----
+## Code Fencing
 >How do you post to an iframe?
 
 stack overflow link: <https://stackoverflow.com/questions/168455/how-do-you-post-to-an-iframe>
