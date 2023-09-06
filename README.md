@@ -21,5 +21,15 @@ Visakhapatnam, often called Vizag, is a vibrant coastal city nestled along India
 
 ***[MyStats link](MyStats.md)***
  
+----
+### Sports Table 
+Below is a table showing the information about some sports and its importances and the average time per it should be played.
 
+| Sport Name | Reason | Avg Hrs per Week |
+|:---:|:---:|:---:|
+| Cricket | Team sport with strategic gameplay | 4-6 hours |
+| Swimming | Full-body workout and low impact|4-6 hours|
+|Tennis|Improves agility and hand-eye coordination|4-6 hours|
+|Basketball|Great for cardiovascular fitness and teamwork|5-7 hours|
+|Football|Excellent for physical fitness and teamwork|5-7 hours|
 
