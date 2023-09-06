@@ -19,5 +19,7 @@ Visakhapatnam, often called Vizag, is a vibrant coastal city nestled along India
 * Godavari Mixed Pulao
 
 
+***[MyStats link](MyStats.md)***
+ 
 
 
